@@ -9,5 +9,10 @@
 .jumbotron h1 {
   color: #fff;
   font-size: 32px;
-  font-family: ;
+  font-family: 'Montserrat', sans-serif;
+ }
+ 
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
  }
