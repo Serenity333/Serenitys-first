@@ -10,6 +10,10 @@
   display: inline; 
  }
  
+ .nav .container {
+   display: inline;
+ }
+ 
  .jumbotron {
    background-image:url('http://fav.me/d2ui7xe');
    height: 300px;
