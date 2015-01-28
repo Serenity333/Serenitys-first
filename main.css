@@ -33,6 +33,27 @@
   color: #fff;
  }
  
+ .learn-more {
+   background-color: #fff;
+ }
+ 
+ .learn-more .container {
+   background-color: #fff;
+   border-bottom: 1px solid #dbdbdb;
+ }
+ 
+ .learn-more h3 {
+   color: #000000;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+   font-weight: bold;
+ }
+ 
+ .learn-more p {
+   color: #0000ff;
+   font-family: 'Monserrat', sans-serif;
+   font-size: 13px;
+ }
  
  
 
