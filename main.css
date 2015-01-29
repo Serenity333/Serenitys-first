@@ -55,9 +55,6 @@
    font-family: 'Montserrat', sans-serif;
    font-size: 18px;
    font-weight: bold;
-   position: relative;
-   top: 30px;
-   right: 5px;
  }
  
  .top-categories h3 {
@@ -65,9 +62,6 @@
    font-family: 'Monserrat', sans-serif;
    font-size: 18px;
    font-weight: bold;
-   position: fixed;
-   top: 30px;
-   right: 5px;
  }
  
  .top-categories p {
