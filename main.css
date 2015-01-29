@@ -42,39 +42,36 @@
  }
  
  .top-categories .container {
-   background-color: #fff;
+   background-color: #000000;
    border-bottom: 1px solid #dbdbdb;
  }
  
  .top-categories .container .thumbnail {
    float: left;
-   padding-left: 10px;
-   
  }
  
  .top-categories h2 {
-   color: #000000;
+   color: #fff;
    font-family: 'Montserrat', sans-serif;
    font-size: 20px;
    font-weight: bold;
  }
  
  .top-categories h3 {
-   color: #000000;
+   color: #fff;
    font-family: 'Monserrat', sans-serif;
    font-size: 20px;
    font-weight: bold;
-   margin-right: auto;
  }
  .top-categories h4 {
-   color: #000000;
+   color: #fff;
    font-family: 'Monserrat', sans-seriff;
    font-size: 20px;
    font-weight: bold;
  }
  
  .top-categories h5 {
-   color: #000000;
+   color: #fff;
    font-family: 'Monserrat', sans-seriff;
    font-size: 20px;
    font-weight: bold;
