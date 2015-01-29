@@ -48,6 +48,8 @@
  
  .top-categories .container .thumbnail {
    float: left;
+   padding-left: 10px;
+   
  }
  
  .top-categories h2 {
@@ -60,14 +62,27 @@
  .top-categories h3 {
    color: #000000;
    font-family: 'Monserrat', sans-serif;
-   font-size: 18px;
+   font-size: 20px;
+   font-weight: bold;
+ }
+ .top-categories h4 {
+   color: #000000;
+   font-family: 'Monserrat', sans-seriff;
+   font-size: 20px;
+   font-weight: bold;
+ }
+ 
+ .top-categories h5 {
+   color: #000000;
+   font-family: 'Monserrat', sans-seriff;
+   font-size: 20px;
    font-weight: bold;
  }
  
  .top-categories p {
     color: #0000ff;
    font-family: 'Monserrat', sans-serif;
-   font-size: 13px;
+   font-size: 15px;
  } 
  
  
