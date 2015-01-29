@@ -53,7 +53,7 @@
  }
  
  .top-categories h2 {
-   color: #808080;
+   color: #000000;
    font-family: 'Montserrat', sans-serif;
    font-size: 18px;
    font-weight: bold;
@@ -80,7 +80,7 @@
  }
  
  .top-categories p {
-    color: #0000ff;
+   color: #0000ff;
    font-family: 'Monserrat', sans-serif;
    font-size: 15px;
  } 
