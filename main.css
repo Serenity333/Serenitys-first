@@ -55,7 +55,7 @@
  .top-categories h2 {
    color: #000000;
    font-family: 'Montserrat', sans-serif;
-   font-size: 18px;
+   font-size: 20px;
    font-weight: bold;
  }
  
@@ -64,6 +64,7 @@
    font-family: 'Monserrat', sans-serif;
    font-size: 20px;
    font-weight: bold;
+   float: right;
  }
  .top-categories h4 {
    color: #000000;
