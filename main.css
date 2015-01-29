@@ -64,7 +64,7 @@
    font-family: 'Monserrat', sans-serif;
    font-size: 20px;
    font-weight: bold;
-   float: right;
+   margin-right: auto;
  }
  .top-categories h4 {
    color: #000000;
@@ -84,6 +84,7 @@
    color: #0000ff;
    font-family: 'Monserrat', sans-serif;
    font-size: 15px;
+   margin-right: auto;
  } 
  
  
