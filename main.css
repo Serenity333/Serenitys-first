@@ -46,6 +46,10 @@
    border-bottom: 1px solid #dbdbdb;
  }
  
+ .top-categories .container .thumbnail {
+   position: relative;
+ }
+ 
  .top-categories h2 {
    color: #000000;
    font-family: 'Montserrat', sans-serif;
@@ -74,6 +78,10 @@
    background color: #fff;
    border bottom: 1px solid #dbdbdb;
  } 
+ 
+ .bottom-categories . container .thumbnail {
+   float: left;
+ }
  
  .bottom-categories h4 {
    color: #000000;
