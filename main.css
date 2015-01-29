@@ -90,6 +90,12 @@
    font-weight: bold;
  }
  
+ .bottom-categories .img {
+   float: left;
+   top: 30px;
+   left: 5px;
+ }
+ 
  .bottom-categories h5 {
    color: #000000;
    font-family: 'Montserrat', sans-serif;
