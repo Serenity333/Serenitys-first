@@ -75,14 +75,14 @@
    border bottom: 1px solid #dbdbdb;
  } 
  
- .bottom-categories h3 {
+ .bottom-categories h4 {
    color: #000000;
    font-family: 'Montserrat', sans-serif;
    font-size: 18px;
    font-weight: bold;
  }
  
- .bottom-categories h4 {
+ .bottom-categories h5 {
    color: #000000;
    font-family: 'Montserrat', sans-serif;
    font-size: 18px;
