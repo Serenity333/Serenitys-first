@@ -16,9 +16,10 @@
  
  .jumbotron {
    background-image: url('http://upload.wikimedia.org/wikipedia/commons/c/c5/1594_Orbis_Plancius_2,12_MB.jpg');
-   height: 300px;
+   height: 500px;
    background-repeat: no repeat;
    background-size: cover;
+   border-bottom: 1280px 100px #000000;
  }
  
  .jumbotron .container {
