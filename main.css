@@ -70,44 +70,4 @@
    font-size: 13px;
  } 
  
- .bottom-categories {
-   background color: #fff;
- }
  
- .bottom-categories .container {
-   background color: #fff;
-   border bottom: 1px solid #dbdbdb;
- } 
- 
- .bottom-categories . container .thumbnail {
-   float: left;
- }
- 
- .bottom-categories h4 {
-   color: #000000;
-   font-family: 'Montserrat', sans-serif;
-   font-size: 18px;
-   font-weight: bold;
- }
- 
- .bottom-categories .img {
-   float: left;
-   top: 30px;
-   left: 5px;
- }
- 
- .bottom-categories h5 {
-   color: #000000;
-   font-family: 'Montserrat', sans-serif;
-   font-size: 18px;
-   font-weight: bold;
- }
- 
- .bottom-categories p {
-   color: #0000ff;
-   font-family: 'Monserrat', sans-serif;
-   font-size: 13px;
- }
- 
- 
-
