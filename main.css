@@ -47,7 +47,7 @@
  }
  
  .top-categories .container .thumbnail {
-   position: relative;
+   float: left;
  }
  
  .top-categories h2 {
