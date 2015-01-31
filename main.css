@@ -66,7 +66,9 @@
    font-family: 'Monserrat', sans-serif;
    font-size: 20px;
    font-weight: bold;
-   padding-top: 14px;
+   position: fixed;
+   top: 5px;
+   bottom: 20px;
  }
  .top-categories h4 {
    color: #fff;
