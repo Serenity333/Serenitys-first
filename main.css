@@ -46,6 +46,7 @@
    border-bottom: 1px solid #dbdbdb;
    display: block;
    background-size: cover;
+   border-top: 10px #000000;
  }
  
  .top-categories .container .thumbnail {
