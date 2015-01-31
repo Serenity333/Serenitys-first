@@ -19,7 +19,7 @@
    height: 500px;
    background-repeat: no repeat;
    background-size: cover;
-   margin-bottom: 10px solid #000000;
+   margin-bottom: 1px;
  }
  
  .jumbotron .container {
