@@ -45,7 +45,7 @@
  .top-categories .container {
    background-color: #000000;
    border-bottom: 1px solid #dbdbdb;
-   position: relative
+   display: block;
    background-size: cover;
  }
  
