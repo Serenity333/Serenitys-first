@@ -67,6 +67,9 @@
    font-size: 20px;
    font-weight: bold;
    display: block;
+   position: fixed;
+   top: 10px;
+   bottom: 50px;
  }
  .top-categories h4 {
    color: #fff;
